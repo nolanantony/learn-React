@@ -1,0 +1,7 @@
+REACT 
+    > react-dom >> for web pages
+    > react-native >> for mobile apps
+
+to create >> npx create-react-app app_name (heavy, takes too long to load) 
+          >> use vite/parcel instead
+
