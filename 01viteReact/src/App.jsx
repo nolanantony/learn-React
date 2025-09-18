@@ -4,7 +4,7 @@ function App() {
   return (
     <>
     <h1>Hello {username}</h1>
-    <p>How are you doing? </p>
+    <p>How are you doing? </>
     <Chat /> {/* Using the Chat component here */}
     </>
   )
