@@ -5,3 +5,5 @@ REACT
 to create >> npx create-react-app app_name (heavy, takes too long to load) 
           >> use vite/parcel instead
 
+when pasing props
+>> funciton Card ({username, btnText="visit me"}) >> this is set the default value for the btnText as "visit me"; it is useful if developers forget to pass the value for btnText in the actual code
